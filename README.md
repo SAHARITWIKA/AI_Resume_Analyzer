@@ -35,6 +35,7 @@ python -m spacy download en_core_web_sm
 streamlit run App.py
 
 
+![image](https://github.com/user-attachments/assets/7c29884b-b877-4aec-9407-d6da196c987e)
 
 
  
